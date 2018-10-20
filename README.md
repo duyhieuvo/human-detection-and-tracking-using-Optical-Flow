@@ -1,6 +1,6 @@
 # human-detection-and-tracking-using-Optical-Flow
 
-This is my Bachelor Topic to implement a system that can be able to detect moving objects in a region of interest, track their movement and classify them into Human/Non-Human groups.
+This is my Bachelor Thesis Topic to implement a system that can be able to detect moving objects in a region of interest, track their movement and classify them into Human/Non-Human groups.
 
 The detection is done using Optical Flow measurement in combination with simple background subtraction. The Median Flow tracker is then used to tracked the object. Position of the object is recorded for later visualization and inspection. The object is classified using a two-step process: Golden Ratio measurement and frontal human face detector using Viola Jones framework.
 
